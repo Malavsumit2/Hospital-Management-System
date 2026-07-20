@@ -80,8 +80,6 @@ Record Types
 Reports & Dashboards
 Project Screenshots
 
-(Add screenshots here)
-
 Project Outcome
 
 Successfully implemented an end-to-end Salesforce Admin Hospital Management System demonstrating automation, security, data modelling and business process implementation.
